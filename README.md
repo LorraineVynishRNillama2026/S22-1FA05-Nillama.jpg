@@ -1,1 +1,1 @@
-[ Improved Distance Calculator output message. 9/15/2026 ]
+Improved Distance Calculator output message. 9/15/2026
